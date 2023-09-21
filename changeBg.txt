@@ -1,0 +1,4 @@
+scenecontrol(48285,background,1,357);
+scenecontrol(89769,background,0,2742);
+scenecontrol(115825,background,1,24000);
+scenecontrol(139825,background,0,714);
